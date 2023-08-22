@@ -65,8 +65,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/AdnanDz251/AdnanDz251/output/snake.svg" alt="Snake animation" />
-
-###
